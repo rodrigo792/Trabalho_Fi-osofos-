@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\bin\Debug\net8.0\Projeto_Integrador_filosofos.exe
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\bin\Debug\net8.0\Projeto_Integrador_filosofos.deps.json
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\bin\Debug\net8.0\Projeto_Integrador_filosofos.runtimeconfig.json
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\bin\Debug\net8.0\Projeto_Integrador_filosofos.dll
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\bin\Debug\net8.0\Projeto_Integrador_filosofos.pdb
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\obj\Debug\net8.0\Projeto_Integrador_filosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\obj\Debug\net8.0\Projeto_Integrador_filosofos.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\obj\Debug\net8.0\Projeto_Integrador_filosofos.AssemblyInfo.cs
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\obj\Debug\net8.0\Projeto_Integrador_filosofos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\obj\Debug\net8.0\Projeto_Integrador_filosofos.dll
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\obj\Debug\net8.0\refint\Projeto_Integrador_filosofos.dll
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\obj\Debug\net8.0\Projeto_Integrador_filosofos.pdb
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\obj\Debug\net8.0\Projeto_Integrador_filosofos.genruntimeconfig.cache
+C:\Users\User\source\repos\Projeto_Integrador_filosofos\obj\Debug\net8.0\ref\Projeto_Integrador_filosofos.dll
